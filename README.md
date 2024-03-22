@@ -1,6 +1,6 @@
 # Olá Mundo 👋
 
-### Sou um engenheiro de software especializado em Java e Python no backend. Tenho grande entusiasmo por inteligência artificial e machine learning. Além disso, utilizo o Python como hobby para análise aplicada ao mercado de opções binárias. 
+### Sou um engenheiro de software especializado em Java e Python no backend. Tenho grande entusiasmo por inteligência artificial e machine learning. Além disso, utilizo o Python como hobby para análise aplicada ao mercado de ações. 
 
 - 🔭 Atualmente estou trabalhando na [Zup Innovation](https://github.com/ZupIT)
 - 🌱 Atualmente trabalhando com a stack de ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&color=gray) +
